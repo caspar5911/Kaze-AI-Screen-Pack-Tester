@@ -1,1 +1,0 @@
-export { UIComponentsGallery } from "./UIComponentsGallery";
