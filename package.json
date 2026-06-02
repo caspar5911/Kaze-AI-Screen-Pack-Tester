@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@pcs-security/kaze-ui-library": "file:./pcs-security-kaze-ui-library-3.2.1.tgz",
+    "@pcs-security/kaze-ui-library": "file:./pcs-security-kaze-ui-library-3.5.0.tgz",
     "react": "latest",
     "react-dom": "latest"
   },
